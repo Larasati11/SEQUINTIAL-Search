@@ -6,5 +6,6 @@
 ![Alt Text](https://github.com/Larasati11/SEQUINTIAL-Search/blob/master/TPS%201.png "lima")
 ![Alt Text](https://github.com/Larasati11/SEQUINTIAL-Search/blob/master/TPS2.png "enam")
 ![Alt Text](https://github.com/Larasati11/SEQUINTIAL-Search/blob/master/PTS3.png "tujuh")
+![Alt Text](https://github.com/Larasati11/SEQUINTIAL-Search/blob/master/TPS4.png "delapan")
 
 
